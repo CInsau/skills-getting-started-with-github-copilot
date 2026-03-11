@@ -8,6 +8,15 @@ Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
 
+## Testing
+
+This project uses **pytest** along with FastAPI's `TestClient` to verify API behavior. Tests are located under the `tests/` directory. You can run them using:
+
+```bash
+python -m pytest
+```
+
+
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/CInsau/skills-getting-started-with-github-copilot/issues/1)
 
 ---
